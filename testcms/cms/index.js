@@ -1,14 +1,14 @@
-{
+({
 	first_slide: {
 		header: 'Woooooow!',
 		tagline: 'Your first enduro.js project',
-		call_to_action: 'Scroll down to see what\'s up',
+		call_to_action: 'Scroll down to see what\'s up'
 	},
 	instruction_points: [
 		{
 			header: 'Create a new page',
 			tagline: 'By adding a file to /pages folder',
-			link: 'https://www.endurojs.com/docs/templates'
+			link: 'post/post'
 		},
 		{
 			header: 'Create content for your page',
@@ -56,4 +56,4 @@
 			}
 		]
 	}
-}
+})
